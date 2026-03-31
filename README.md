@@ -2,7 +2,7 @@
 
 Founder @ **[shiko.vet](https://shiko.vet)** · Colombia 🇨🇴
 
-From UX design to full-stack product development — building technology that strengthens the connection between pets, their owners, and veterinary professionals.
+From UX design to full-stack product development - building technology that strengthens the connection between pets, their owners, and veterinary professionals.
 
 ### What I'm building
 
@@ -22,9 +22,9 @@ From UX design to full-stack product development — building technology that st
 
 Elixir libraries built for Shiko, available for everyone:
 
-- **[shiko_notifications](https://github.com/Leandro-Moreno/shiko_notifications)** — email, SMS, WhatsApp, push & Telegram SDK
-- **[imgproxy_url](https://github.com/Leandro-Moreno/imgproxy_url)** — signed imgproxy URL generator
-- **[ex_turnstile](https://github.com/Leandro-Moreno/ex_turnstile)** — Cloudflare Turnstile server-side verification
+- **[shiko_notifications](https://github.com/Leandro-Moreno/shiko_notifications)** - email, SMS, WhatsApp, push & Telegram SDK
+- **[imgproxy_url](https://github.com/Leandro-Moreno/imgproxy_url)** - signed imgproxy URL generator
+- **[ex_turnstile](https://github.com/Leandro-Moreno/ex_turnstile)** - Cloudflare Turnstile server-side verification
 
 ---
 
